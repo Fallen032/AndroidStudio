@@ -29,7 +29,7 @@ import com.example.parent_dashboard.ui.theme.Parent_DashboardTheme
  * THEME & STYLING SECTION
  * Change these values to update the global look of your dashboard.
  */
-// Define the font family. Currently using Default as fallback.
+// Define the font family. Currently, using Default as fallback.
 // If you add .ttf files to res/font, you can reference them here using Font(R.font.your_font_name).
 val RadioCanadaBig = FontFamily.Default
 
